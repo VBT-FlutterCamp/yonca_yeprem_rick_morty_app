@@ -1,5 +1,6 @@
 # yonca_yeprem_rick_morty_app
 
+![rickmorty](https://user-images.githubusercontent.com/70916991/155888080-762ef3d6-217b-4ff0-8262-3f59a3315f6e.gif)
 A new Flutter project.
 
 ## Getting Started
